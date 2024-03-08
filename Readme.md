@@ -7,3 +7,5 @@
 - [Todo APP](https://github.com/ndjerrou/todos_from_scratch)
 
 - [A Timer](https://github.com/ndjerrou/timer_advanced_js)
+
+- [A secret message App](https://github.com/ndjerrou/timer_advanced_js)
