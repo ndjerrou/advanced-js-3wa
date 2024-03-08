@@ -5,3 +5,5 @@
 - [Publish an npm package](https://github.com/ndjerrou/publish_npm_package_3wa)
 
 - [Todo APP](https://github.com/ndjerrou/todos_from_scratch)
+
+- [A Timer](https://github.com/ndjerrou/timer_advanced_js)
